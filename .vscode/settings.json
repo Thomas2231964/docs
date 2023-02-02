@@ -3,5 +3,15 @@
     "**/translations": true
   },
   "workbench.editor.enablePreview": false,
-  "workbench.editor.enablePreviewFromQuickOpen": false
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "cSpell.words": [
+    "domwaiter"
+  ],
+  "cSpell.enableFiletypes": [
+    "!elixir",
+    "!erlang",
+    "dockerfile",
+    "fsharp",
+    "git-rebase"
+  ]
 }
